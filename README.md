@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" />
   </a>
   <a aria-label="GitHub contributors" href="https://github.com/ausaf007/tech-advisor/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/github/contributors/ausaf007/tech-advisor.svg?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Contributors-1-brightgreen?style=for-the-badge" />
   </a>
   <a aria-label="linkedin-shield" href="https://www.linkedin.com/in/md-ausaf-rashid/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" />
